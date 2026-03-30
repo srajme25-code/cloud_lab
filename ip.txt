@@ -4,12 +4,19 @@ Course: PCS221 Cloud Computing
 
 Public IP: 40.81.246.121
 
+VM Website:
+http://40.81.246.121
+
+Contact Page:
+http://40.81.246.121/contact.html
+
 Description:
-- Created an Ubuntu Virtual Machine on Microsoft Azure
-- Installed and configured Apache Web Server
-- Hosted index.html and contact.html pages
-- Enabled HTTP (Port 80) for public access
-- Successfully accessed website using public IP
+- Created VM in Azure
+- Installed Apache server
+- Hosted HTML pages
+- Configured networking (Port 80)
+- Verified website using public IP
 
 Static Website:
+https://yourstorage.z13.web.core.windows.net
 This website is hosted using Azure Storage without a VM.

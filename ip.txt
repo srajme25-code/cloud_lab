@@ -1,1 +1,15 @@
+Name: Siddharatha Raj
+Roll Number: 8025320092
+Course: PCS221 Cloud Computing
 
+Public IP: 40.81.246.121
+
+Description:
+- Created an Ubuntu Virtual Machine on Microsoft Azure
+- Installed and configured Apache Web Server
+- Hosted index.html and contact.html pages
+- Enabled HTTP (Port 80) for public access
+- Successfully accessed website using public IP
+
+Static Website:
+This website is hosted using Azure Storage without a VM.
